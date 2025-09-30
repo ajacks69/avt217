@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family: mr-darcy, sans-serif;
+}
+
+body {
+  
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	line-height:1.6em;
+	background-color: powderblue;
+}
+
+#wrapper{
+	padding-left: 5%;
+	background-color:ghostwhite;
+		float:inherit;
+	
+		
+}
+
+
+a:link {
+	color:goldenrod;
+	text-decoration:none;
+}
+
+a:visted {
+	color:mediumblue;
+}
+
+a:hover {
+	color:maroon;
+		text-decoration:underline;
+}
+
+a:active {
+	color:navy
+}
+
+.weekly{
+	width:45%;
+	float:left;
+	margin:0 5%;
+}
+
+#project {
+	width:45%;
+	float:left;
+}
+
+.demo {
+	font-family: mr-darcy, sans-serif;
+	font-style:italic;
+	 color:goldenrod;
+}
