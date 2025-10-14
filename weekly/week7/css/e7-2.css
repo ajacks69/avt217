@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row1 {
+	width:908px;
+	height:67px;
+	float:left;
+	margin:0;
+	padding:0;
+	background-color:indianred
+}
+
+.row2 {
+	width:908px;
+	height:32px;
+	float:left;
+	margin-top:25px;
+	padding-top:25px;
+	background-color:goldenrod;
+	
+}
+
+.container {
+	display:flex;
+	flex-direction:column;
+}
+
+.container2{
+	display:flex;
+	flex-direction:row;
+}
+
+.column {
+	width:207px;
+	height:382px;
+	float:left;
+	display:grid;
+	row-gap:20px;
+	margin: 20px 5px;
+	background-color:chocolate;
+	
+}
+
+.row3{
+	width:908px;
+	height:55px;
+	float:left;
+	margin:0;
+	padding:0;
+	background-color:firebrick;
+}
