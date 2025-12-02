@@ -4,6 +4,9 @@ body {
 	background-color: #91111E;
 }
 
+a:hover {
+	color:peru;
+}
 
 ul {
 	list-style-type: none;
@@ -199,8 +202,12 @@ p {
 }
 
 a {
-	text-color:#9E7645;
 	text-decoration: none;
 }
+
+a:active {
+	color:#9E7645;
+}
+
 
 
